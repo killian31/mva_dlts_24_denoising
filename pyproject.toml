@@ -9,6 +9,14 @@ readme = "README.md"
 python = "^3.11"
 pystoi = "^0.4.1"
 matplotlib = "^3.10.0"
+numpy = "1.26.4"
+torch = "2.2.2"
+torchaudio = "2.2.2"
+torchinfo = "^1.8.0"
+torch-pesq = "^0.1.2"
+typeguard = "==2.*"
+pesq = "^0.0.4"
+batch-pystoi = "^0.0.3"
 
 
 [build-system]
