@@ -17,6 +17,7 @@ torch-pesq = "^0.1.2"
 typeguard = "==2.*"
 pesq = "^0.0.4"
 batch-pystoi = "^0.0.3"
+librosa = "^0.10.2.post1"
 
 
 [build-system]
