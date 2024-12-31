@@ -18,6 +18,7 @@ typeguard = "==2.*"
 pesq = "^0.0.4"
 batch-pystoi = "^0.0.3"
 librosa = "^0.10.2.post1"
+tqdm = "^4.67.1"
 
 
 [build-system]
